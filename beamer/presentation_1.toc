@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Trying to solve HTSeq-data problems}{7}{0}{2}
+\beamer@sectionintoc {3}{Prerequisites}{13}{0}{3}
+\beamer@sectionintoc {4}{Investigations}{29}{0}{4}
